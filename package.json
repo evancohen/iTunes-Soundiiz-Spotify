@@ -1,0 +1,24 @@
+{
+  "name": "itunes-soundiiz-spotify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evancohen/iTunes-Soundiiz-Spotify.git"
+  },
+  "author": "Evan Cohen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evancohen/iTunes-Soundiiz-Spotify/issues"
+  },
+  "homepage": "https://github.com/evancohen/iTunes-Soundiiz-Spotify#readme",
+  "dependencies": {
+    "plist": "^3.0.6",
+    "xml2js": "^0.4.23"
+  }
+}
